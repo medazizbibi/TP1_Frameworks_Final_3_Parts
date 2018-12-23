@@ -18,7 +18,6 @@ import java.util.List;
 import java.util.Optional;
 
 @RunWith(SpringRunner.class)
-//@SpringBootTest
 @DataJpaTest
 public class ClientRepositoryTests {
     private static final Logger log = LoggerFactory.getLogger(ClientRepositoryTests.class);
